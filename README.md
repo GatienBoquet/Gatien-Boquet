@@ -1,6 +1,13 @@
 # Bonjour/hi there 👋
+📍 Montréal, Canada
 
 ⚛ React.js/Native Dev ⚛
+
+- 🔭 I’m  working on **dubstepmag-native** @ Dubstep Mag
+- 🧭 Current side-projects :
+- [binarytalk-native](https://github.com/GatienBoquet/binarytalk-native)
+- [fbclone](https://github.com/GatienBoquet/fbclone)
+
 
 ## 👾 Coding with...
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&logoColor=ColorName&color=black)
@@ -13,6 +20,6 @@
 <br/>
 
 
-## 🌎 Let's chat! 💬 
+## 🌎 Let's chat! -  💬 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=ColorName&color=black&link=https://www.linkedin.com/in/gatienboquet/)](https://www.linkedin.com/in/gatienboquet/) 
