@@ -15,8 +15,6 @@
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=Node.js&logoColor=ColorName&color=black)
 ![](https://img.shields.io/badge/GraphQL-informational?style=flat&logo=graphql&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=ColorName&color=black)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=ColorName&color=black)
 <br/>
 
 
