@@ -1,7 +1,7 @@
 # Bonjour/hi there 👋
 📍 Montréal, Canada
 
-⚛ Consultant DevOps ⚛
+⚛ Dev - React Native - Expo ⚛
 
 - 🔭 I’m  working on **dubstepmag-native** @ Dubstep Mag
 - 🧭 Current side-projects :
